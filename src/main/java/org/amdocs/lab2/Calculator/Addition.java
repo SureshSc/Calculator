@@ -1,3 +1,4 @@
+package org.amdocs.lab2.Calculator;
 public class Addition {
 
 	public int evaluate(int firstNumber, int secondNumber) {

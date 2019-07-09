@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: org.amdocs.lab2.Calculator.AppTest
+Test set: org.amdocs.lab2.Calculator.AddTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.018 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
